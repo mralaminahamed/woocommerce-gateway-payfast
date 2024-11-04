@@ -4,7 +4,7 @@ Tags: credit card, payfast, payment request, woocommerce, automattic
 Requires at least: 6.5
 Tested up to: 6.6
 Requires PHP: 7.4
-Stable tag: 1.6.7
+Stable tag: 1.6.8
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -37,6 +37,12 @@ For help setting up and configuring, please refer to our [user guide](https://do
 If you get stuck, you can ask for help in the Plugin Forum.
 
 == Changelog ==
+
+= 1.6.8 - 2024-11-04 =
+* Add - Credentials validation and required field notice for PayFast in the sandbox environment.
+* Dev - Bump WooCommerce "tested up to" version 9.4.
+* Dev - Bump WooCommerce minimum supported version to 9.2.
+* Dev - Bump WordPress minimum supported version to 6.5.
 
 = 1.6.7 - 2024-09-09 =
 * Dev - Bump WooCommerce "tested up to" version 9.3.

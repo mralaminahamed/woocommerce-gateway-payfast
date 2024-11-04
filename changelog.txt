@@ -1,5 +1,11 @@
 *** PayFast Changelog ***
 
+= 1.6.8 - 2024-11-04 =
+* Add - Credentials validation and required field notice for PayFast in the sandbox environment.
+* Dev - Bump WooCommerce "tested up to" version 9.4.
+* Dev - Bump WooCommerce minimum supported version to 9.2.
+* Dev - Bump WordPress minimum supported version to 6.5.
+
 = 1.6.7 - 2024-09-09 =
 * Dev - Bump WooCommerce "tested up to" version 9.3.
 * Dev - Bump WooCommerce minimum supported version to 9.1.
